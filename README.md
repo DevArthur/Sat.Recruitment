@@ -1,4 +1,4 @@
-# Sat.Recruitment-main
+# Sat.Recruitment
 ## Restfull API developed in .NET Core 3.1
 
 ### Once the project being downloaded, please execute next statement in Nuget Console:
